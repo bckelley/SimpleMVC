@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to RouteEaseMVC, a web application built with PHP that provides
+Welcome to SimpleMVC, a web application built with PHP that provides
 a versatile platform for creating, managing, and sharing posts.
 This project follows the MVC (Model-View-Controller) architecture,
 ensuring a clean and organized codebase.
@@ -22,8 +22,8 @@ ensuring a clean and organized codebase.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/bckelley/routeeasemvc.git`
-2. Navigate to the project directory: `cd RouteEaseMVC`
+1. Clone the repository: `git clone https://github.com/bckelley/SimpleMVC.git`
+2. Navigate to the project directory: `cd SimpleMVC`
 3. Set up the configuration file: `config/config.php` with required values.
 4. Ensure the following PHP and MySQL and Apache are installed.
    a. PHP version 8.1
